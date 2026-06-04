@@ -71,16 +71,6 @@ My expertise lies at the intersection of **commercial relationship management** 
 
 ---
 
-## 🎓 Education & Certifications
-
-* **AWS Certified AI Practitioner** *(In Progress)*
-* **Sustainable Tourism Certification** – University of Copenhagen (2024)
-* **Lean, Agile & Scrum Methodologies** (2022)
-* **Project Management Principles** (2013)
-* **Diploma of System Administration**
-* **Certificate IV Tech Support & Software Development**
-* **Business in Asia** – Griffith University (2014)
-* **German as a Second Language** – University of Sydney (2014)
 
 ---
 
@@ -96,4 +86,4 @@ My expertise lies at the intersection of **commercial relationship management** 
 ## 🤝 Let's Connect!
 
 * 💼 **LinkedIn:** [linkedin.com/in/rutami](https://linkedin.com/in/rutami)
-* 📱 **Phone:** 0493276101
+
