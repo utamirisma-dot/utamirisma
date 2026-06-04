@@ -1,79 +1,99 @@
-# Hi there, I'm [Your Name]! 👋
-### [Your Current Role / Tagline, e.g., Full-Stack Developer & Tech Enthusiast]
+# Hi there, I'm Risma Utami! 👋
+### Customer Success, Onboarding & Partner Implementation Specialist
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Location-[Your%20City,%20Country]-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
-  <img src="https://img.shields.io/badge/Portfolio-[yourwebsite.com]-brightgreen?style=flat-square" alt="Portfolio">
-  <img src="https://img.shields.io/badge/LinkedIn-[Profile]-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/Location-Sydney,%20Australia-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/LinkedIn-rutami-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate **[Your Profession]** with **[X] years of experience** building scalable, user-friendly applications. I love solving complex problems, writing clean code, and continuously learning new technologies. 
+I am a **Customer Success, Onboarding, and Partner Implementation professional** with deep experience across travel technology, finance technology, enterprise software integrations, and client relationship management. 
 
-- 🔭 **Current Focus:** Working on [Mention a current project or area of study]
-- 🌱 **Learning:** Currently diving deep into [Mention a tech stack or concept you are learning]
-- 💬 **Ask me about:** [List 2-3 topics you love discussing, e.g., React, System Design, Sci-Fi books]
-- ⚡ **Fun Fact:** [Add a quirky personal detail, e.g., I can brew a mean espresso / I've hiked 3 active volcanoes]
+My expertise lies at the intersection of **commercial relationship management** and **hands-on technical acumen**. I specialize in leading partner onboarding, complex implementation projects, API/XML integrations, and cross-functional stakeholder engagement to drive seamless user adoption and long-term retention.
+
+- 🔭 **Current Focus:** Leading enterprise onboarding and PMS integrations at Expedia Group.
+- 🌱 **Learning:** Currently working towards my **AWS Certified AI Practitioner** certification.
+- 💬 **Ask me about:** GraphQL, API testing, SaaS implementation support, and cross-border partner relations.
+- ⚡ **Fun Fact:** I hold a certification in Sustainable Tourism from the University of Copenhagen!
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technical Expertise & Tools
 
-| Category | Technologies |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | `JavaScript` `TypeScript` `Python` `HTML5/CSS3` |
-| **Frameworks / Libraries** | `React.js` `Next.js` `Node.js` `Express` `TailwindCSS` |
-| **Databases** | `PostgreSQL` `MongoDB` `Redis` |
-| **DevOps / Tools** | `Git` `Docker` `AWS (S3, EC2)` `GitHub Actions` `Vercel` |
+| **Query & Data Languages** | `GraphQL` `SQL` `XML` `JSON` `SOAP` |
+| **Technical Integrations** | `API Integration` `Property Management System (PMS) Integrations` `Connectivity Troubleshooting` |
+| **Testing & Analysis** | `System Testing` `Defect Analysis` `Data Validation` `User Acceptance Testing (UAT)` |
+| **Productivity & CRMs** | `Salesforce` `Jira` `Atlassian` `GitHub` `Tableau` `SAP` `Oracle Siebel` |
 
 ---
 
-## 📈 Featured Projects
+## 💼 Professional Experience
 
-### 🛍️ [Project Name 1] | [Role, e.g., Lead Developer]
-*Brief 1-2 sentence description of what the project does and who it is for.*
-* **Tech Stack:** Next.js, TypeScript, PostgreSQL, Prisma, Stripe
-* **Key Achievement:** Optimized database queries to reduce API latency by 40%.
-* [🔗 Live Demo](https://your-demo-link.com) | [💻 GitHub Repo](https://github.com/yourusername/repo)
+### **Expedia Group** | Enterprise Partner Specialist
+*Sydney, Australia | Feb 2026 — Present*
+* Lead end-to-end onboarding and implementation activities for enterprise partners and integrated properties.
+* Manage complex partner portfolios and PMS integrations, ensuring successful adoption and operational readiness.
+* Perform advanced technical troubleshooting, defect analysis, system validation, and GraphQL-based investigations.
+* Collaborate with engineering, product, and partner teams to resolve integration issues and improve customer outcomes.
 
-### 🤖 [Project Name 2] | [Role]
-*Brief 1-2 sentence description of what the project does and who it is for.*
-* **Tech Stack:** Python, FastAPI, Docker, OpenAI API
-* **Key Achievement:** Successfully automated [X process], saving users an average of 5 hours per week.
-* [🔗 Live Demo](https://your-demo-link.com) | [💻 GitHub Repo](https://github.com/yourusername/repo)
+### **HBX Group / Carnect GmbH** | Supplier Relationship Manager
+*Sydney, Australia | 2021 — Jan 2026*
+* Led onboarding and implementation of strategic suppliers and distribution partners across APAC.
+* Managed API/XML integration projects from requirements gathering through testing, launch, and post-go-live support.
+* Investigated data pipeline and connectivity issues, coordinating with developers and product teams to resolve incidents.
+* Provided technical consultation to partners regarding connectivity, inventory distribution, and platform capabilities.
+* Negotiated commercial agreements while maintaining strong customer satisfaction and long-term partner retention.
+
+### **Carnect GmbH** | Supplier Relationship Manager
+*Hamburg, Germany | Dec 2016 — 2021*
+* Built and managed an international supplier portfolio supporting distribution partner growth for the DACHS region.
+* Coordinated supplier implementation projects with development, inventory, and data management teams.
+* Supported API connectivity, integration testing, and issue resolution across supplier platforms.
+
+### **TUI PLC / Carnect GmbH** | Operations and Web Support Officer
+*Hamburg, Germany | May 2015 — Dec 2016*
+* Performed web application, API/XML, SOAP, and SQL-based testing for new releases and system enhancements.
+* Identified, documented, and tracked defects through verification, integration, and user acceptance testing cycles.
+* Supported development teams with technical analysis, root-cause investigations, and issue validation.
+
+### **Thomson Reuters** | Sales Desk Associate
+*Sydney & Melbourne, Australia | Dec 2007 — Dec 2014*
+* Acted as a central point of contact for enterprise clients, sales teams, and global stakeholders handling contract administration and escalations.
+
+### **Macquarie Bank Securitised Lending** | Relationship Manager
+*Sydney, Australia | Oct 2006 — Dec 2007*
+* Managed a portfolio of commercial lending clients, structuring and negotiating financial solutions.
 
 ---
 
-## 💼 Work Experience
+## 🎓 Education & Certifications
 
-#### **[Senior Software Engineer]** @ [Company Name]
-*Month 202X — Present*
-* Led a team of 4 developers to redesign the core product dashboard, improving user engagement by 25%.
-* Implemented CI/CD pipelines using GitHub Actions, cutting deployment times in half.
-
-#### **[Software Engineer]** @ [Previous Company Name]
-*Month 202X — Month 202X*
-* Developed and maintained RESTful APIs handling over 50k+ daily active users.
-* Collaborated closely with UI/UX designers to build accessible, pixel-perfect web interfaces.
+* **AWS Certified AI Practitioner** *(In Progress)*
+* **Sustainable Tourism Certification** – University of Copenhagen (2024)
+* **Lean, Agile & Scrum Methodologies** (2022)
+* **Project Management Principles** (2013)
+* **Diploma of System Administration**
+* **Certificate IV Tech Support & Software Development**
+* **Business in Asia** – Griffith University (2014)
+* **German as a Second Language** – University of Sydney (2014)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=visual_studio_dark" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=visual_studio_dark" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect!
 
-If you want to talk about job opportunities, collaboration on open-source projects, or just talk shop, feel free to reach out!
-
-* 📧 **Email:** [your.email@example.com]
-* 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* 🐦 **Twitter/X:** [@yourhandle](https://x.com/yourhandle)
+* 💼 **LinkedIn:** [linkedin.com/in/rutami](https://linkedin.com/in/rutami)
+* 📱 **Phone:** 0493276101
